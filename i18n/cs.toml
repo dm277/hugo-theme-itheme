@@ -1,0 +1,34 @@
+[home]
+    other = "Domů"
+[posts]
+    other = "Články"
+[about]
+    other = "O mě"
+[latestArticles]
+    other = "Články"
+[moreArticles]
+    other = "Více..."
+[viewArchive]
+    other ="Archiv"
+[socialMedia]
+    other = "Social Media"
+[related]
+    other = "Související"
+[pagination]
+    other = "stránkování"
+[of]
+    other = "z"
+[allTags]
+    other = "štítky"
+[author]
+    other = "Autor"
+[postDate]
+    other = "Publikováno"
+[copyright]
+    other = "Copyright"
+[licenses]
+    other = "licence"
+[search]
+    other = "Hledání"
+[searchPlaceholder]
+    other = "Hledej titul nebo slovo..."
