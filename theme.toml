@@ -2,13 +2,13 @@ name = "iTheme"
 license = "GPL-3.0"
 licenselink = "https://github.com/floyd-li/hugo-theme-itheme/blob/master/LICENSE"
 description = "An Apple's Style Theme"
-homepage = "https://github.com/floyd-li/hugo-theme-itheme"
+homepage = "https://github.com/dm277/hugo-theme-itheme"
 demosite = "https://hugo-theme-itheme.netlify.app"
 tags = ["apple","blog", "newsroom", "light", "dark"]
 features = ["blog", "apple", "newsroom"]
 [author]
-  name = "Floyd Li"
-  homepage = "https://github.com/floyd-li"
+  name = "David Marek"
+  homepage = "https://github.com/dm277"
 [original]
   name = "austin2035"
   homepage = "https://astro.yufengbiji.com/"
